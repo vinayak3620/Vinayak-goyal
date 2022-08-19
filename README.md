@@ -26,7 +26,8 @@
     <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+    
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak3620" alt="vinayak3620" /></a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak3620&show_icons=true&locale=en&layout=compact" alt="vinayak3620" /></p>
 
