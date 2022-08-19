@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vinayak Goyal</h1>
 <h3 align="center">Aspiring Data Analyst.</h3>
 
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vinayak3620](https://github.com/vinayak3620)
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/vinayak3620)**
 
-- 📫 How to reach me **vinayakgoyal900@gmail.com**
+- 📫 Reach me at **[Gmail](vinayakgoyal900@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
+
 <p align="left">
 <a href="https://linkedin.com/in/vinayak3620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak3620" height="30" width="40" /></a>
 <a href="https://kaggle.com/vinayakgoyal3620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vinayakgoyal3620" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vinayakgoyal900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinayakgoyal900" height="30" width="40" /></a>
 </p>
 
-<p align="center">  
+## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
+<p align="left">  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -26,8 +29,4 @@
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
     
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayak3620" alt="vinayak3620" /></a> </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak3620&" alt="vinayak3620" /></p>
 
