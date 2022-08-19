@@ -3,7 +3,9 @@
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 🌱 I’m currently learning **Data Analysis.**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/vinayak3620)**
 
