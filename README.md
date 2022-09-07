@@ -30,5 +30,5 @@
     <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    
+      
 
